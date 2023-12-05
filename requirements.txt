@@ -1,8 +1,8 @@
 streamlit
-pandas
-matplotlib 
-plotly
 finance-datareader
-html5lib
-datetime
+matplotlib
+plotly
+pandas
 openpyxl
+beautifulsoup4
+html5lib
